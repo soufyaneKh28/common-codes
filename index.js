@@ -2,6 +2,5 @@
 const id = crypto.randomUUID();
 
 
-
 // to enable the autoreload when submiting a form
 e.preventDefault();
